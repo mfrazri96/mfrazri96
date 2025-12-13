@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&text=MFRAZRI96&fontAlign=50&fontAlignY=42&desc=Cloud%20Engineering%20%7C%20Automation%20%7C%20AI%20Builds&descAlign=50&descAlignY=70&color=0:0b0f14,40:2b3036,70:9aa3ad,100:0b0f14&fontColor=e6edf3&descColor=c9d1d9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Faizs Azri&fontAlign=50&fontAlignY=42&desc=Cloud%20Engineer%20%7C%20Automation%20%7C%20AI%20Builds&descAlign=50&descAlignY=70&color=0:0b0f14,40:2b3036,70:9aa3ad,100:0b0f14&fontColor=e6edf3&descColor=c9d1d9" />
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 <h2 align="center">Faizs Rizwan</h2>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:mrfaizs@gmail.com">Email</a> •
+  <a href="YOUR_LINKEDIN">FaizsAzri</a> •
   <a href="https://mfrazri96.github.io">Portfolio (coming soon)</a>
 </p>
 
