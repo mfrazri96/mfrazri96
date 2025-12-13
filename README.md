@@ -26,17 +26,20 @@ This profile represents an active and intentional portfolio that will expand wit
 
 ---
 
-## Mostly used languages (public repositories)
+## Most used languages
 
-Based on current public work and tooling focus:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&section=header&color=0:05060a,55:22d3ee,85:8b5cf6,100:05060a" />
+</p>
 
-- **HTML** for UI and frontend driven tools  
-- **Python** for automation and backend logic  
-- **JavaScript** for interactivity and web behavior  
-- **SQL** for data querying and analytics  
-- **Markdown** for documentation and portfolio presentation  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrazri96&layout=compact&langs_count=8&hide_border=true&border_radius=20&bg_color=05060a&title_color=39ff14&text_color=c9d1d9&icon_color=22d3ee" />
+</p>
 
-> Language distribution will continue to evolve as more Python and cloud projects are added.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&section=footer&color=0:05060a,55:22d3ee,85:8b5cf6,100:05060a" />
+</p>
+
 
 ---
 
