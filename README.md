@@ -37,7 +37,7 @@ This profile represents an active and intentional portfolio that will expand wit
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/mfrazri96/strike-zone-selectorv1">
+  <a href="https://github.com/mfrazri96/bowling-tournament-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=strike-zone-selectorv1&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
 </p>
