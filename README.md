@@ -7,15 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=26&section=header&color=0:05060a,40:22d3ee,70:8b5cf6,100:05060a" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Journey-1f6feb?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-Python%20Automation-8b5cf6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-Glassy%20Cards-22d3ee?style=for-the-badge&logo=github&logoColor=0b0f14" />
-</p>
-
-<br/>
 
 ## Summary
 
@@ -51,11 +42,6 @@ This profile represents an active and intentional portfolio that will expand wit
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mfrazri96/mfrazri96">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=mfrazri96&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=8b5cf6" />
-  </a>
-</p>
 
 > More repositories are actively being prepared and will be added progressively.
 
