@@ -36,6 +36,10 @@ This profile represents an active and intentional portfolio that will expand wit
   <a href="https://github.com/mfrazri96/EZ_Contact_Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=EZ_Contact_Manager&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
+
+  <a href="https://github.com/mfrazri96/Image_Converter_Jpeg_to_PNG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=Image_Converter_Jpeg_to_PNG&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
+  </a>
 </p>
 
 > More repositories are actively being prepared and will be added progressively.
