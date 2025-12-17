@@ -48,9 +48,6 @@ This profile represents an active and intentional portfolio that will expand wit
   <img src="https://github-readme-stats.vercel.app/api?username=mfrazri96&show_icons=true&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=1f6feb" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrazri96&layout=compact&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6" />
-</p>
 
 <!-- Optional footer strip for a more futuristic finish -->
 <p align="center">
