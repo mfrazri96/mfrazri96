@@ -17,18 +17,10 @@ This profile represents an active and intentional portfolio that will expand wit
 
 ---
 
-## Most used languages
+## Language Usage
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&section=header&color=0:05060a,55:22d3ee,85:8b5cf6,100:05060a" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrazri96&layout=compact&langs_count=8&hide_border=true&border_radius=20&bg_color=05060a&title_color=39ff14&text_color=c9d1d9&icon_color=22d3ee" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&section=footer&color=0:05060a,55:22d3ee,85:8b5cf6,100:05060a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrazri96&layout=compact&langs_count=8&hide_border=true&border_radius=20&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
 </p>
 
 
@@ -37,7 +29,7 @@ This profile represents an active and intentional portfolio that will expand wit
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/mfrazri96/bowling-tournament-system">
+  <a href="https://github.com/mfrazri96/Bowling-Tournament-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=bowling-tournament-system&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
 
