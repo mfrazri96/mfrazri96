@@ -30,15 +30,15 @@ This profile represents an active and intentional portfolio that will expand wit
 
 <p align="center">
   <a href="https://github.com/mfrazri96/Bowling-Tournament-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=bowling-tournament-system&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=bowling-tournament-system&cache_seconds=1800&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
 
   <a href="https://github.com/mfrazri96/EZ_Contact_Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=EZ_Contact_Manager&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=EZ_Contact_Manager&cache_seconds=1800&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
 
   <a href="https://github.com/mfrazri96/Image_Converter_Jpeg_to_PNG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=Image_Converter_Jpeg_to_PNG&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfrazri96&repo=Image_Converter_Jpeg_to_PNG&cache_seconds=1800&border_radius=18&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=22d3ee" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ This profile represents an active and intentional portfolio that will expand wit
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfrazri96&show_icons=true&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=1f6feb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfrazri96&show_icons=true&hide_border=true&bg_color=05060a&title_color=e6edf3&text_color=a9b7c6&icon_color=1f6feb&cache_seconds=1800" />
 </p>
 
 
