@@ -45,8 +45,8 @@ This profile represents an active and intentional portfolio that will expand wit
   <img src="https://img.shields.io/badge/EZ_Contact_Manager-Application-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mfrazri96/Image_Converter_Jpeg_to_PNG">
-  <img src="https://img.shields.io/badge/Image_Converter_JPEG_to_PNG-Utility_Tool-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mfrazri96/IMG_Converter_Studio">
+  <img src="https://img.shields.io/badge/Image_Converter_Studio-Utility_Tool-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
